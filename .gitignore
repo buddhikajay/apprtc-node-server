@@ -6,4 +6,5 @@ node_modules/
 webroot/
 /workspace/
 .idea/*
-config/*
+config/ssl/*
+config/*.json
