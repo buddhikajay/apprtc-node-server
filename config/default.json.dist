@@ -1,0 +1,4 @@
+{
+"port" : 4000,
+"ssl" : {"key" : "config/ssl/app.key", "cert" : "config/ssl/app.crt"}
+}
